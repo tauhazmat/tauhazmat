@@ -4,7 +4,7 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tauhazmat&label=Profile%20views&color=0e75b6&style=flat" alt="tauhazmat's github profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="tauhazmat's github profile views" /> </p>
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=tauhazmat&theme=fantasy&show_icons=true" />
