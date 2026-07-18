@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Tauha Azmat<br>I’m currently learning Python (Data Science)
+Hi! I am Tauha Azmat<br>Currently learning Python (Data Science) & Cyber Security
 
 
 ## 🌐 Socials:
